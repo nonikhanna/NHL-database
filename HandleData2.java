@@ -15,7 +15,6 @@ public class HandleData2
 
 	public static void main(String[] args) throws Exception
 	{
-		//check("KADRI, NAZEM");
 		ExtractES(1, 1230);
 	}
 
